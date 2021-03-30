@@ -18,3 +18,20 @@ not the first time that's happened but with the unprecedented reach power and
 influence that the organizations described in the book have in today's society.
 
 ## Research notes
+
+## Information
+
+\- 👋 Hi, I’m @donlovett
+
+
+
+\- 👀 I’m interested in ...
+
+
+\- 🌱 I’m currently learning ...
+
+
+\- 💞️ I’m looking to collaborate on ...
+
+
+\- 📫 How to reach me ...
