@@ -23,18 +23,15 @@ influence that the organizations described in the book have in today's society.
 
 \- 👋 Hi, I’m @donlovett
 
-2
+
 
 \- 👀 I’m interested in ...
 
-3
 
 \- 🌱 I’m currently learning ...
 
-4
 
 \- 💞️ I’m looking to collaborate on ...
 
-5
 
 \- 📫 How to reach me ...
